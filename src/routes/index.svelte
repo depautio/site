@@ -3,6 +3,7 @@
 </script>
 
 <script lang="ts">
+	import Logo from "$lib/logo.svelte";
 </script>
 
 <svelte:head>
@@ -11,7 +12,7 @@
 </svelte:head>
 
 <section>
-	<img src="/logo.svg" alt="depautio stamp" />
+	<Logo />
 	<h1>
 		An unobtrusive habit forming companion to help you get on the most out of your days.
 	</h1>

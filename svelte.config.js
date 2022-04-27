@@ -17,8 +17,6 @@ const config = {
             // change below to your repo name
             base: process.env.NODE_ENV !== "production" ? "" : "/site",
         },
-        // hydrate the <div id="svelte"> element in src/app.html
-        target: "#content"
 	}
 };
 
