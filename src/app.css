@@ -1,0 +1,11 @@
+@import '@fontsource/fira-mono';
+
+* {
+	font-family: 'Bayon', sans-serif;
+	color: #FFF;
+}
+
+body {
+	background-image: url(/background.jpg);
+	background-size: cover;
+}
