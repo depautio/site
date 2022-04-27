@@ -14,7 +14,7 @@
 <section>
 	<Logo />
 	<h1>
-		An unobtrusive habit forming companion to help you get on the most out of your days.
+		An unobtrusive habit forming companion to help you get the most out of your days.
 	</h1>
 	<p>
 		Depautio is a companion that helps you form habits that you can stick to and that you can
